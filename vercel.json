@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/payment-fadelsm.html" }
+    { "source": "/", "destination": "/payment-damxstore.html" }
   ]
 }
